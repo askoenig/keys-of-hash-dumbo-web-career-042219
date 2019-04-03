@@ -8,5 +8,6 @@ class Hash
          new_array << key
         end
       end
+      return new_array
     end
 end
