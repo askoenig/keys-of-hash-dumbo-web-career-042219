@@ -7,7 +7,7 @@ class Hash
         if arguments.include?(value)
          new_array << key
       end
+      return new_array
     end
   end
-  return new_array
 end
