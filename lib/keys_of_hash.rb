@@ -9,5 +9,4 @@ class Hash
         end
       end
     end
-  return new_array
 end
