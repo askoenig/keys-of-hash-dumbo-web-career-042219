@@ -4,6 +4,8 @@ class Hash
     hash.each do |key, value|
     if value = arguments
       new_array << value
+      end
     end
   end
+  return new_array
 end
